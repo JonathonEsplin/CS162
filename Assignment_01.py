@@ -3,7 +3,7 @@
 class house:
     """This class defines a house"""
     def house_stats (stats):
-        """funtion to display your house stats."""
+        """function to display your house stats."""
         print(f"My house has: \t{stats.floors} floors")
         print(f"My house has: \t{stats.bedrooms} bedrooms.")
         print(f"My house is: \t{stats.outside_color} on the outside.")
